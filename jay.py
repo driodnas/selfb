@@ -17,7 +17,7 @@ botStart = time.time()
 #cl.loginResult()
 
 cl = LINETCR.LINE()
-cl.login(token="EqdfYhLeMt8WaF1I48hf.JaIcRyc14sLXZI5dJNLfhW.6ZxlRkTPxZMyEfFMwZie2tADcg7J1RpV9CURQO0E/EQ=")
+cl.login(token="------")
 cl.loginResult()
 
 print "=============[Login Success]============="
